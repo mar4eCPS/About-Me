@@ -1,7 +1,7 @@
 # About-Me
 
 
-Im a admin on Creative-PS
+Im a admin & Developer on Creative-PS
 
 I can code in C++, C# and lua!
 
